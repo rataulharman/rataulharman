@@ -1,5 +1,6 @@
 # 👋 Hi, I'm Harman Rataul!!!
 
+![Banner](githubbanner.png)
 
 Welcome to my GitHub profile! I am a student in the Software Development program at MITT.  
 I really enjoy learning how websites and applications work. I’m currently learning **HTML, CSS, and JavaScript**, and I like building small projects to practice. Coding is new to me, but I find it exciting and fun to see my work come to life on the screen.
