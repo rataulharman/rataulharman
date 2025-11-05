@@ -9,7 +9,6 @@ Hi, I'm **Harman Rataul**, a dedicated Software Development student at **MITT**.
 Beyond coding, I’m someone who enjoys **video and photo editing**, as it allows me to express creativity in a different way. I also like playing **cricket**, which helps me stay active and build teamwork skills. I’m excited to continue growing as a developer—learning more about modern frameworks, exploring real-world projects, and preparing for a future career where I can create meaningful and practical software solutions.
 
 
-
 ## 🛠️ Skills
 
 - **Programming Languages:** HTML, CSS, JavaScript, Python  
@@ -24,7 +23,6 @@ Beyond coding, I’m someone who enjoys **video and photo editing**, as it allow
 - 🎯 Goal: To become confident in **full-stack web development**  
 - 🔧 Interested in exploring frameworks like **React** and **Node.js** in the future  
 
----
 
 ## 🌍 Professional Growth
 
@@ -33,7 +31,6 @@ Beyond coding, I’m someone who enjoys **video and photo editing**, as it allow
 - 🧩 Constantly learning how to balance **creativity** and **functionality** in projects  
 - 🌟 Aim to contribute to meaningful software that solves real-world problems  
 
----
 
 ## ⚡ Fun / Personality Touch
 
