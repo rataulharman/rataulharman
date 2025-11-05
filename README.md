@@ -45,8 +45,8 @@ Beyond coding, I’m someone who enjoys **video and photo editing**, as it allow
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com)  
-[![Email](https://img.shields.io/badge/Email-harman@example.com-red)](mailto:harman@example.com)
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com](https://www.linkedin.com/in/harmandeep-singh-20727a333?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))  
+[![Email](mailto:rataulharmandeep.com)
 
 
 ⭐ **Thanks for visiting my profile!**
